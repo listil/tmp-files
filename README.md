@@ -1,6 +1,6 @@
 # tmp-files
 
-## VoraxRoom 추천 오버레이 (Windows)
+## 추천 오버레이 (Windows)
 
 다운로드: [Releases](https://github.com/listil/tmp-files/releases/latest)
 
@@ -20,7 +20,7 @@
 
 ### 설치
 
-1. Releases에서 `VoraxRoom-Overlay-Setup-x.x.x.exe`를 받아 실행합니다.
+1. Releases에서 `Overlay-Setup-x.x.x.exe`를 받아 실행합니다.
 2. 코드 서명이 없는 파일이라 "Windows의 PC 보호" 창이 뜹니다. **추가 정보 → 실행**을 누르세요.
 3. 시작 시 실시간 캡처는 꺼져 있습니다. 패널의 "실시간 캡쳐" 버튼을 켜거나 "캡쳐 1회"를 누르세요.
 4. 종료는 작업 표시줄 오른쪽 트레이 아이콘을 우클릭 → 종료입니다.
